@@ -1,4 +1,4 @@
-- title: 关于
+- title: 简介
   url: /about/
 - title: 点赞
   url: /years/
@@ -6,9 +6,9 @@
   url: /categories/
 - title: 张丹病毒
   url: /tags/
-- title: More
+- title: 更多
   sublinks:
     - title: FAQ
       url: /faq/
-    - title: Docs
+    - title: 文档
       url: /docs/
