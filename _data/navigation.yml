@@ -1,11 +1,11 @@
-- title: 简介
+- title: 人物简介
   url: /about/
-- title: 点赞
+- title: 活动
   url: /years/
 - title: 最可爱的老师
-  url: /categories/
+  url: /teacher/
 - title: 张丹病毒
-  url: /tags/
+  url: /virus/
 - title: 更多
   sublinks:
     - title: FAQ
