@@ -6,6 +6,8 @@
   url: /sayings/
 - title: 张丹病毒
   url: /virus/
+- title: 游戏：保卫下课时间
+  url: /game/
 - title: 更多
   sublinks:
     - title: 其它入选老师
