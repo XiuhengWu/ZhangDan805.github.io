@@ -4,9 +4,9 @@
   url: /years/
 - title: 至理名言
   url: /sayings/
-- title: 张丹病毒
-  url: /virus/
 - title: 更多
   sublinks:
     - title: 关于此网站
       url: /concerning/
+    - title: 张丹病毒
+      url: /virus/
