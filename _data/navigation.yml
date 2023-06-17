@@ -6,7 +6,7 @@
   url: /sayings/
 - title: 更多
   sublinks:
-    - title: 关于此网站
-      url: /concerning/
     - title: 张丹病毒
       url: /virus/
+    - title: 关于此网站
+      url: /concerning/
