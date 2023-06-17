@@ -2,13 +2,11 @@
   url: /about/
 - title: 活动年表
   url: /years/
-- title: 最可爱的老师
-  url: /teacher/
+- title: 至理名言
+  url: /saying/
 - title: 张丹病毒
   url: /virus/
 - title: 更多
   sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: 文档
-      url: /docs/
+    - title: 关于此网站
+      url: /concerning/
