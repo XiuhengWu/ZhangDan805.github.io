@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Favorite sayings
+title: The Famous Sayings
 permalink: /sayings/
 ---
 **在教学过程中，账单老师给我们留下了很多值得深思的至理名言，包括：**
